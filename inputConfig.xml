@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/wek/inputs</oscMessage>
+  <numInputs>14</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>x</string>
+    <string>y</string>
+    <string>istSpeed</string>
+    <string>istVelX</string>
+    <string>istVelY</string>
+    <string>istAcc</string>
+    <string>size</string>
+    <string>avgSpeed</string>
+    <string>avgAccel</string>
+    <string>stdSpeed</string>
+    <string>stdAccel</string>
+    <string>timeBeforeDrawing</string>
+    <string>timeDrawing</string>
+    <string>timeBeforeEval</string>
+  </inputNames>
+</OSCInputGroup>
